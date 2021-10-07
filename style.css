@@ -1,0 +1,21 @@
+body.body{
+margin: 0;
+padding: 0;
+background-image: url(https://images.unsplash.com/photo-1552152974-19b9caf99137?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1080&ixid=MnwxfDB8MXxyYW5kb218MHx8YmxhY2t8fHx8fHwxNjMzNTIyNTM5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1920);
+}
+
+span.animate{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Poppins';
+   /* color:chartreuse;*/
+   color: yellow;
+background-color: transparent;
+}
+div.type{
+    text-align: center;
+background-color: transparent;
+color: white;
+font-size: 70px;
+font-family: 'Poppins';
+}
